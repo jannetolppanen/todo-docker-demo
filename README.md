@@ -2,7 +2,7 @@
 - in terminal, navigate to the root of this project and try these commands:
 
 run container
-`docker-compose up 
+`docker-compose up`
 
 stop container, the container is not removed
 `docker-compose  stop`
